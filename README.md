@@ -7,6 +7,14 @@ Favorite books are dystopic publications. Like 1984 (George Orwell), Brave New W
 
 Favorite movie is Back to the Future, favorite series is Doctor Who. Yes, I love time travel.
 
+Currently working 
+<a href="https://www.arcelikglobal.com/">Arcelik Global</a>
+|--|
+
+Past: 
+<a href="https://hesapkurdu.com">Hesapkurdu.com</a> |<a href="https://www.turkcell.com.tr/">Turkcell</a>
+|--|--|
+
 
 ## Skill Set :muscle:
 
