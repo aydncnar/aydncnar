@@ -9,8 +9,14 @@
 
 **Libraries and Frameworks and Tools**
 
-<img title="Vue" alt="Vue" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png">|<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">|<img title="Sass" alt="Sass" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sass/sass.png">|<img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Webpack" alt="Webpack" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/webpack/webpack.png">|<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png">|
-|--|--|--|--|--|--|
+<img title="Vue" alt="Vue" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png">|
+<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">|
+<img title="Sass" alt="Sass" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sass/sass.png">|
+<img title="Styled Components" alt="Styled Components" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/styled-components/styled-components.png">|
+<img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|
+<img title="Webpack" alt="Webpack" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/webpack/webpack.png">|
+<img title="Aws" alt="Aws" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png">|
+|--|--|--|--|--|--|--|
 
 
 
