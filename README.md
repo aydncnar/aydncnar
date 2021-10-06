@@ -8,11 +8,11 @@ Favorite books are dystopic publications. Like 1984 (George Orwell), Brave New W
 Favorite movie is Back to the Future, favorite series is Doctor Who. Yes, I love time travel.
 
 **Currently working:**
-<a href="https://www.linkedin.com/company/arcelikglobal/mycompany/"><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEIPwxeXrt6Sg/company-logo_200_200/0/1605042549787?e=1641427200&v=beta&t=PWdlCAoZ2vzGCpN9KKWZWvCmprNic8eneWxC7rZIu94" width="40" alt="Arcelik Global" titlt="Arcelik Global"></a>
+<a href="https://www.linkedin.com/company/arcelikglobal/mycompany/"><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEIPwxeXrt6Sg/company-logo_200_200/0/1605042549787?e=1641427200&v=beta&t=PWdlCAoZ2vzGCpN9KKWZWvCmprNic8eneWxC7rZIu94" width="32" alt="Arcelik Global" titlt="Arcelik Global"></a>
 |--|
 
 **Past:** 
-<a href="https://www.linkedin.com/company/hesapkurdu/"><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEllP2un-jQ0A/company-logo_200_200/0/1605516922220?e=1641427200&v=beta&t=UF8huS1nausbh0KZiyBF7yxYFQteSf6__P5it5GRXLU" width="40" alt="Hesapkurdu.com" titlt="Hesapkurdu.com"></a>|<a href="https://www.linkedin.com/company/turkcell/"><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQF-17CigzRmgw/company-logo_200_200/0/1526626186669?e=1641427200&v=beta&t=tPPa1mtBJg3uu3LELBepgDMR67FCT8O15B7SXb4mWXU" width="40" alt="Turkcell" titlt="Turkcell"></a>
+<a href="https://www.linkedin.com/company/hesapkurdu/"><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEllP2un-jQ0A/company-logo_200_200/0/1605516922220?e=1641427200&v=beta&t=UF8huS1nausbh0KZiyBF7yxYFQteSf6__P5it5GRXLU" width="32" alt="Hesapkurdu.com" titlt="Hesapkurdu.com"></a>|<a href="https://www.linkedin.com/company/turkcell/"><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQF-17CigzRmgw/company-logo_200_200/0/1526626186669?e=1641427200&v=beta&t=tPPa1mtBJg3uu3LELBepgDMR67FCT8O15B7SXb4mWXU" width="32" alt="Turkcell" titlt="Turkcell"></a>
 |--|--|
 
 
@@ -37,7 +37,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 ## Let's Connect :handshake:
 
-<a href="https://www.linkedin.com/in/aydncnar/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://medium.com/@aydncnar"><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/medium-512.png" width="40"></a>
+<a href="https://www.linkedin.com/in/aydncnar/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="32"></a>|<a href="https://medium.com/@aydncnar"><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/medium-512.png" width="32"></a>
 |--|--|
 
 
