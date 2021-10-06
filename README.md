@@ -7,12 +7,14 @@ Favorite books are dystopic publications. Like 1984 (George Orwell), Brave New W
 
 Favorite movie is Back to the Future, favorite series is Doctor Who. Yes, I love time travel.
 
-Currently working 
-<a href="https://www.arcelikglobal.com/">Arcelik Global</a>
+Currently working:
+<a href="https://www.linkedin.com/company/arcelikglobal/mycompany/"><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEIPwxeXrt6Sg/company-logo_200_200/0/1605042549787?e=1641427200&v=beta&t=PWdlCAoZ2vzGCpN9KKWZWvCmprNic8eneWxC7rZIu94" width="40" alt="Arcelik Global" titlt="Arcelik Global"></a>
 |--|
 
 Past: 
-<a href="https://hesapkurdu.com">Hesapkurdu.com</a> |<a href="https://www.turkcell.com.tr/">Turkcell</a>
+<a href="https://www.linkedin.com/company/hesapkurdu/"><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEllP2un-jQ0A/company-logo_200_200/0/1605516922220?e=1641427200&v=beta&t=UF8huS1nausbh0KZiyBF7yxYFQteSf6__P5it5GRXLU" width="40" alt="Hesapkurdu.com" titlt="Hesapkurdu.com"></a>|<a href="https://www.linkedin.com/company/turkcell/"><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQF-17CigzRmgw/company-logo_200_200/0/1526626186669?e=1641427200&v=beta&t=tPPa1mtBJg3uu3LELBepgDMR67FCT8O15B7SXb4mWXU" width="40" alt="Turkcell" titlt="Turkcell"></a>
+|--|--|
+
 |--|--|
 
 
