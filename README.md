@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there 👋
+Working as Front End Developer.
+Good team-player and loves learning new technologies.
+The man who is so curious.
+
+Favorite books are dystopic publications. Like 1984 (George Orwell), Brave New World (Aldous Huxley) etc.
+
+Favorite movie is Back to the Future, favorite series is Doctor Who. Yes, I love time travel.
 
 
 ## Skill Set :muscle:
