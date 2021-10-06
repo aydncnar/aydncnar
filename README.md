@@ -1,11 +1,6 @@
 ## Hi there 👋
 Working as Front End Developer.
 Good team-player and loves learning new technologies.
-The man who is so curious.
-
-Favorite books are dystopic publications. Like 1984 (George Orwell), Brave New World (Aldous Huxley) etc.
-
-Favorite movie is Back to the Future, favorite series is Doctor Who. Yes, I love time travel.
 
 **Currently working:**
 <a href="https://www.linkedin.com/company/arcelikglobal/mycompany/"><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEIPwxeXrt6Sg/company-logo_200_200/0/1605042549787?e=1641427200&v=beta&t=PWdlCAoZ2vzGCpN9KKWZWvCmprNic8eneWxC7rZIu94" width="32" alt="Arcelik Global" titlt="Arcelik Global"></a>
