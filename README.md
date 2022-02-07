@@ -3,11 +3,11 @@ Working as Front End Developer.
 Good team-player and loves learning new technologies.
 
 **Currently working:**
-<a href="https://www.linkedin.com/company/arcelikglobal/mycompany/"><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEIPwxeXrt6Sg/company-logo_200_200/0/1605042549787?e=1641427200&v=beta&t=PWdlCAoZ2vzGCpN9KKWZWvCmprNic8eneWxC7rZIu94" width="32" alt="Arcelik Global" titlt="Arcelik Global"></a>
+<a href="https://www.linkedin.com/company/arcelikglobal/mycompany/"><img src="https://media-exp1.licdn.com/dms/image/C4E0BAQELONy6_Bka_w/company-logo_200_200/0/1636621360797?e=1652313600&v=beta&t=UwZVkR_PPAkFHQLy9hTVOH5QPuYokBDk8oXJ-t4C34g" width="32" alt="Arcelik Global" titlt="Arcelik Global"></a>
 |--|
 
 **Past:** 
-<a href="https://www.linkedin.com/company/hesapkurdu/"><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEllP2un-jQ0A/company-logo_200_200/0/1605516922220?e=1641427200&v=beta&t=UF8huS1nausbh0KZiyBF7yxYFQteSf6__P5it5GRXLU" width="32" alt="Hesapkurdu.com" titlt="Hesapkurdu.com"></a>|<a href="https://www.linkedin.com/company/turkcell/"><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQF-17CigzRmgw/company-logo_200_200/0/1526626186669?e=1641427200&v=beta&t=tPPa1mtBJg3uu3LELBepgDMR67FCT8O15B7SXb4mWXU" width="32" alt="Turkcell" titlt="Turkcell"></a>
+<a href="https://www.linkedin.com/company/hesapkurdu/"><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEllP2un-jQ0A/company-logo_200_200/0/1605516922220?e=1652313600&v=beta&t=lcpWYKz6tqw3Wq5y9yn3JvvkN-g-exzXiK1UTqonoVU" width="32" alt="Hesapkurdu.com" titlt="Hesapkurdu.com"></a>|<a href="https://www.linkedin.com/company/turkcell/"><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQF-17CigzRmgw/company-logo_200_200/0/1526626186669?e=1652313600&v=beta&t=MBvF4BKpVHBSeyGHIOQ9gS4Nl10eQHc8ysLYsvpEcnc" width="32" alt="Turkcell" titlt="Turkcell"></a>
 |--|--|
 
 
