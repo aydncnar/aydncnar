@@ -3,12 +3,12 @@ Working as Front End Developer.
 Good team-player and loves learning new technologies.
 
 **Currently working:**
-<a href="https://www.linkedin.com/company/arcelikglobal/mycompany/"><img src="https://media-exp1.licdn.com/dms/image/C4E0BAQELONy6_Bka_w/company-logo_200_200/0/1636621360797?e=1652313600&v=beta&t=UwZVkR_PPAkFHQLy9hTVOH5QPuYokBDk8oXJ-t4C34g" width="32" alt="Arcelik Global" titlt="Arcelik Global"></a>
+<a href="https://www.linkedin.com/company/armut/mycompany/verification/"><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQGTZar7Zsi9aA/company-logo_100_100/0/1662548232447?e=1671667200&v=beta&t=5NKeoAt7enT3jf9eYoCzjpgJ4zodClgU1ui3WSp1E58" width="32" alt="Arcelik Global" titlt="Arcelik Global"></a>
 |--|
 
 **Past:** 
-<a href="https://www.linkedin.com/company/hesapkurdu/"><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEllP2un-jQ0A/company-logo_200_200/0/1605516922220?e=1652313600&v=beta&t=lcpWYKz6tqw3Wq5y9yn3JvvkN-g-exzXiK1UTqonoVU" width="32" alt="Hesapkurdu.com" titlt="Hesapkurdu.com"></a>|<a href="https://www.linkedin.com/company/turkcell/"><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQF-17CigzRmgw/company-logo_200_200/0/1526626186669?e=1652313600&v=beta&t=MBvF4BKpVHBSeyGHIOQ9gS4Nl10eQHc8ysLYsvpEcnc" width="32" alt="Turkcell" titlt="Turkcell"></a>
-|--|--|
+<a href="https://www.linkedin.com/company/arcelikglobal/mycompany/"><img src="https://media-exp1.licdn.com/dms/image/C4E0BAQELONy6_Bka_w/company-logo_100_100/0/1636621360797?e=1671667200&v=beta&t=QuVFqo6WYOCMr5G1XzmkDvoPy1zrAs2E3iZfmPPjxkU" width="32" alt="Arcelik Global" titlt="Arcelik Global"></a>|<a href="https://www.linkedin.com/company/hesapkurdu/"><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEllP2un-jQ0A/company-logo_100_100/0/1605516922220?e=1671667200&v=beta&t=2Ie9Wv46RJxqEiAuJEbdWism4rjhtq8pNhwsitllcdU" width="32" alt="Hesapkurdu.com" titlt="Hesapkurdu.com"></a>|<a href="https://www.linkedin.com/company/turkcell/"><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQF-17CigzRmgw/company-logo_100_100/0/1526626186669?e=1671667200&v=beta&t=XG7G6_iMzMmBsSX2PHr_t3-uF9I653EEX7QEt8GabHo" width="32" alt="Turkcell" titlt="Turkcell"></a>
+|--|--|--|
 
 
 ## Skill Set :muscle:
