@@ -3,11 +3,11 @@ Working as Front End Developer.
 Good team-player and loves learning new technologies.
 
 **Currently working:**
-<a href="https://www.linkedin.com/company/armut/mycompany/verification/"><img src="https://media.licdn.com/dms/image/D4D0BAQGawG8QDfploA/company-logo_100_100/0/1681222923618?e=1689811200&v=beta&t=bxvpkrAcQlRBepWpfzYtPp9Frh55BIfWQwC5EhlEPYg" width="32" alt="Armutl" titlt="Armut"></a>
+<a href="https://www.linkedin.com/company/armut/mycompany/verification/"><img src="https://media.licdn.com/dms/image/D4D0BAQGawG8QDfploA/company-logo_100_100/0/1681222923618?e=1698883200&v=beta&t=xay8duD7pi58G15eT9S_QGvZNwE3AOQl79GPldz81ZQ" width="32" alt="Armut" titlt="Armut"></a>
 |--|
 
 **Past:** 
-<a href="https://www.linkedin.com/company/arcelikglobal/mycompany/"><img src="https://media.licdn.com/dms/image/D4D0BAQHavkQY8OBAUg/company-logo_100_100/0/1680536890474?e=1689811200&v=beta&t=9HveeqsoMJKHnORxHboI6TQ3K6iig_XQU_0bZGj8oR4" width="32" alt="Arcelik Global" titlt="Arcelik Global"></a>|<a href="https://www.linkedin.com/company/hesapkurdu/"><img src="https://media.licdn.com/dms/image/C4D0BAQEllP2un-jQ0A/company-logo_100_100/0/1605516922220?e=1689811200&v=beta&t=6pDUecTYodRoQeRo-4u8lOsX2pM6i1ZpJjOlx5p_zU8" width="32" alt="Hesapkurdu.com" titlt="Hesapkurdu.com"></a>|<a href="https://www.linkedin.com/company/turkcell/"><img src="https://media.licdn.com/dms/image/C4D0BAQFHCrz5AWoD4A/company-logo_100_100/0/1679488021715?e=1689811200&v=beta&t=2uhKSz7crfDIbz5qMVDSA0EPN9qUa7xR6DZ1uM-47bw" width="32" alt="Turkcell" titlt="Turkcell"></a>
+<a href="https://www.linkedin.com/company/arcelikglobal/mycompany/"><img src="https://media.licdn.com/dms/image/D4D0BAQE5SoYS7QmO_Q/company-logo_100_100/0/1684141633536?e=1698883200&v=beta&t=nIJvwUrTtX0k-x2ep81LQjVqM_YYVqKFV2p6Lf6EaPM" width="32" alt="Arcelik Global" titlt="Arcelik Global"></a>|<a href="https://www.linkedin.com/company/hesapkurdu/"><img src="https://media.licdn.com/dms/image/C4D0BAQEllP2un-jQ0A/company-logo_100_100/0/1605516922220?e=1698883200&v=beta&t=Ea39T4REcJ1fjK9hYiIySMAikZ8sN-U-I10uXjeUIRo" width="32" alt="Hesapkurdu.com" titlt="Hesapkurdu.com"></a>|<a href="https://www.linkedin.com/company/turkcell/"><img src="https://media.licdn.com/dms/image/C4D0BAQFHCrz5AWoD4A/company-logo_100_100/0/1679488021715?e=1698883200&v=beta&t=-L0gzFM3GkFhUA6Ftb1ff7qJ6z_KR8tp7zHqCVmwmo4" width="32" alt="Turkcell" titlt="Turkcell"></a>
 |--|--|--|
 
 
