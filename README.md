@@ -1,6 +1,6 @@
 ## Hi there 👋
-Working as a Front End Developer.
-Good team-player and loves learning new technologies.
+Currently working as a Front End Developer and Engineering Manager.
+Good team-player, and loves learning new technologies and human relations.
 
 **Currently working:**
 <a href="https://www.linkedin.com/company/armut/mycompany/verification/"><img src="https://media.licdn.com/dms/image/D4D0BAQEX-birk-luwA/company-logo_100_100/0/1698669073723/armut_logo?e=1720051200&v=beta&t=oclMaZZOwo8KLvx_Rgg0veemYEGIenCr8R0_Y_1LHPU" width="32" alt="Armut" titlt="Armut"></a>
