@@ -1,5 +1,5 @@
 ## Hi there 👋
-Working as Front End Developer.
+Working as a Front End Developer.
 Good team-player and loves learning new technologies.
 
 **Currently working:**
