@@ -3,11 +3,11 @@ Currently working as a Front End Developer and Engineering Manager.
 Good team-player, and loves learning new technologies and human relations.
 
 **Currently working:**
-<a href="https://www.linkedin.com/company/armut/mycompany/verification/"><img src="https://media.licdn.com/dms/image/D4D0BAQEX-birk-luwA/company-logo_100_100/0/1698669073723/armut_logo?e=1720051200&v=beta&t=oclMaZZOwo8KLvx_Rgg0veemYEGIenCr8R0_Y_1LHPU" width="32" alt="Armut" titlt="Armut"></a>
+<a href="https://www.linkedin.com/company/armut/mycompany/verification/"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQEX-birk-luwA/company-logo_100_100/company-logo_100_100/0/1698669073723/armut_logo?e=1776297600&v=beta&t=pvcmIdco7UUnNph5X-a7QKat96dHw1IUEDxb_wqDQ4I" width="32" alt="Armut" titlt="Armut"></a>
 |--|
 
 **Past:** 
-<a href="https://www.linkedin.com/company/arcelikglobal/mycompany/"><img src="https://media.licdn.com/dms/image/D4D0BAQE6lR9MlNSe5A/company-logo_100_100/0/1699711076294?e=1720051200&v=beta&t=JeJI4SLJhoSNixrnCyd9DlIzkJ3GYDSB8Z8asqg0JSU" width="32" alt="Arcelik Global" title="Arcelik Global"></a>|<a href="https://www.linkedin.com/company/hesapkurdu/" width="32" alt="Hesapkurdu.com" title="Hesapkurdu.com"><img src="https://media.licdn.com/dms/image/C4D0BAQEllP2un-jQ0A/company-logo_100_100/0/1630539790943/hesapkurdu_logo?e=1720051200&v=beta&t=-H_cdry6cg4rysZ4KvmZC6PM9AknPf3ShKUUbq30pxg" width="32" alt="Hesapkurdu.com" title="Hesapkurdu.com"></a>|<a href="https://www.linkedin.com/company/turkcell/"><img src="https://media.licdn.com/dms/image/D4D0BAQEguFuYtgGHNw/company-logo_100_100/0/1707314897258/turkcell_logo?e=1720051200&v=beta&t=-6xXHQghsyx55IG3Y2EOjJaLnotdQ0VzBebU1_iNzIk" width="32" alt="Turkcell" title="Turkcell"></a>
+<a href="https://www.linkedin.com/company/arcelikglobal/mycompany/"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQHa9oYvswa6Kw/company-logo_100_100/B4DZpvm3IWJcAU-/0/1762809050179/arcelikturkiye_logo?e=1776297600&v=beta&t=CSz_CuIzLs7B30rARv0xHl6Ql_mu9-rBA5Ak0-D42v4" width="32" alt="Arcelik Global" title="Arcelik Global"></a>|<a href="https://www.linkedin.com/company/hesapkurdu/" width="32" alt="Hesapkurdu.com" title="Hesapkurdu.com"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQGTWP3L371dpA/company-logo_100_100/B4DZlW.DkKJcAQ-/0/1758100732671/hesapkurdu_logo?e=1776297600&v=beta&t=9XVuuBjUFfa5nhCXWZcdc4-tYQ6IeMHayRKsbIj6K7c" width="32" alt="Hesapkurdu.com" title="Hesapkurdu.com"></a>|<a href="https://www.linkedin.com/company/turkcell/"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQG_t_7qwbSsXw/company-logo_100_100/B4DZw3wIgJJEAQ-/0/1770461891297/turkcell_logo?e=1776297600&v=beta&t=yW-ApgE9v5-kcZepauzWC2OEhJXDwqPlQl7uYM9JH9s" width="32" alt="Turkcell" title="Turkcell"></a>
 |--|--|--|
 
 
